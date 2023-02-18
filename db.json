@@ -1,0 +1,54 @@
+{
+  "futbolistas": [
+   {
+    "id": 1,
+    "name": "Lionel Messi",
+    "pais": "Argentina",
+    "posición": "Delantero",
+    "descripción": "Lionel Andrés Messi, más conocido como Leo Messi, es un futbolista argentino que también posee la nacionalidad española desde el año 2005.",
+    "numeroCamiseta": 10,
+    "imagen": "https://www.fundacionkonex.org/custom/web/data/imagenes/repositorio/2021/03/12/16575/2021031202544061e0e3f25c3041f849de6b510817fb34.jpg",
+    "nacimiento": "24-6-1987"
+   },
+   {
+    "id": 2,
+    "name": "Pelé",
+    "pais": "Brasil",
+    "posición": "Delantero",
+    "descripción": "Nació el 23 de octubre de 1940 en la localidad brasileña de Tres Corazones, en el estado Minas Gerais. Pelé es considerado por muchos como el mejor futbolista del siglo. Comenzó a jugar fútbol como se comienza a jugar fútbol en Brasil: en las calles. Jugaba con sus compañeros de escuela o con sus vecinos.",
+    "numeroCamiseta": 10,
+    "imagen": "https://images.pagina12.com.ar/styles/focal_content_1200x1050/public/2021-03/146771-pele-3x2.jpg?itok=DRUgKgMo",
+    "nacimiento": "23-10-1940"
+   },
+   {
+    "id": 3,
+    "name": "Iván Zamorano",
+    "pais": "Chile",
+    "posición": "Delantero",
+    "descripción": "(Iván Luis Zamorano Zamora; Maipú, Chile, 1967) Futbolista chileno. En su infancia, su escasa fortaleza física nunca hubiese permitido augurar ningún triunfo deportivo; pero a los 17 años comenzó a jugar ya en la Primera División chilena con el Cobresal.",
+    "numeroCamiseta": 9,
+    "imagen": "https://cdn.conmebol.com/wp-content/uploads/2017/01/zamorano.jpg",
+    "nacimiento": "28-12-1985"
+   },
+   {
+    "id": 4,
+    "name": "Carlos Valderrama",
+    "pais": "Colombia",
+    "posición": "Centrocampista",
+    "descripción": "Carlos Alberto Valderrama Palacio (Santa Marta, Magdalena, 2 de septiembre de 1961), conocido popularmente como El Pibe Valderrama, es un exfutbolista y comentarista deportivo colombiano.",
+    "numeroCamiseta": 10,
+    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/1317439/2147483647/strip/true/crop/640x425+0+0/resize/640x425!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa6%2F54%2Fd50532d346e890b623dd5772d9ec%2Fcarlosvalderrama-03072020-afp-e.jpg",
+    "nacimiento": "2-9-1961"
+   },
+   {
+    "id": 5,
+    "name": "Hugo Sánchez",
+    "pais": "México",
+    "posición": "Delantero",
+    "descripción": "Hugo Sánchez ha sido considerado el mejor jugador mexicano de todos los tiempos, siendo elegido por el IFFHS como el mejor futbolista de América del Norte y América Central del Siglo XX.",
+    "numeroCamiseta": 9,
+    "imagen": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2022/06/20150331/Hugo-Sanchez-Mexico-752x428.jpg",
+    "nacimiento": "11-7-1958"
+   }
+  ]
+ }
